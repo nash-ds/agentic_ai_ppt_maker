@@ -1,0 +1,1546 @@
+2025-10-29 02:00:37,365 - WARNING -  * Debugger is active!
+2025-10-29 02:00:37,368 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:03:02,913 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:03:02,915 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:03:10,892 - WARNING -  * Debugger is active!
+2025-10-29 02:03:10,895 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:06:01,975 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\logging\\__init__.py', reloading
+2025-10-29 02:06:02,180 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:06:02,182 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\encodings\\cp1252.py', reloading
+2025-10-29 02:06:02,182 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:06:02,184 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-10-29 02:06:02,197 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\http\\server.py', reloading
+2025-10-29 02:06:02,204 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\socketserver.py', reloading
+2025-10-29 02:06:11,943 - WARNING -  * Debugger is active!
+2025-10-29 02:06:11,946 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:06:47,403 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-29 02:06:47,403 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 02:06:47,429 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 02:06:54,156 - WARNING -  * Debugger is active!
+2025-10-29 02:06:54,164 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:06:54,751 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\app.py', reloading
+2025-10-29 02:06:54,768 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:06:54,771 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-10-29 02:06:54,771 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:06:56,460 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 02:07:03,124 - WARNING -  * Debugger is active!
+2025-10-29 02:07:03,129 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:07:06,285 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\backend.py', reloading
+2025-10-29 02:07:06,286 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\backend.py', reloading
+2025-10-29 02:07:08,152 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 02:07:16,648 - WARNING -  * Debugger is active!
+2025-10-29 02:07:16,654 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:07:16,743 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:07:16,745 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:20,919 - INFO - RESPONSE: Information Retrieval Fundamentals
+The Science of Searching Information
+
+Large Collections of Resources
+Collections often consist of unstructured data, such as text documents, web pages, images, and videos.
+
+Common IR Systems
+A common example is a Web Search Engine like Google or Bing.
+
+Key Concepts in IR
+Query: The formal statement of a user's information need, usually in the form of keywords or a phrase
+
+Indexing Process
+The crucial preprocessing step where documents are analyzed and organized to create an Inverted Index of terms and their locations
+
+Ranking Algorithm
+After a search, the system computes a score of relevance for each document and presents the results in a sorted list
+
+IR System Models
+IR systems use various mathematical models, such as the Boolean Model or Vector Space Model
+2025-10-29 02:07:20,919 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:20,960 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:07:20,961 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:25,869 - INFO - RESPONSE: Information Retrieval is the science of searching for and obtaining relevant information from large collections of resources.
+These collections often consist of unstructured data, such as text documents, web pages, images, and videos.
+A common example of an IR system is a Web Search Engine like Google or Bing.
+Query is the formal statement of a user's information need, usually in the form of keywords or a phrase.
+Indexing is the crucial preprocessing step where documents are analyzed and organized to create a searchable map.
+The Index creates a searchable map of terms and where they appear.
+This makes searching fast.
+Ranking computes a score of relevance for each document after a search.
+The system presents the results in a sorted list, with the most relevant items at the top.
+IR systems use various mathematical models to determine relevance.
+These models include the Boolean Model (exact match) or the Vector Space Model (similarity based on term weights).
+The Vector Space Model uses TF-IDF for similarity calculation.
+2025-10-29 02:07:25,870 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:25,876 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Information Retrieval is the science of searching for and obtaining relevant information from large collections of resources. These collections often consist of unstructured data, such as text documents, web pages, images, and videos. A common example of an IR system is a Web Search Engine like Google or Bing. Query is the formal statement of a user's information need, usually in the form of keywords or a phrase. Indexing is the crucial preprocessing step where documents are analyzed and organized to create a searchable map. The Index creates a searchable map of terms and where they appear. This makes searching fast. Ranking computes a score of relevance for each document after a search. The system presents the results in a sorted list, with the most relevant items at the top. IR systems use various mathematical models to determine relevance.
+        
+2025-10-29 02:07:25,878 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:07:25,880 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:30,562 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Information Retrieval is the science of searching for and obtaining relevant information from large collections of resources. These collections often consist of unstructured data, such as text documents, web pages, images, and videos. A common example of an IR system is a Web Search Engine like Google or Bing. Query is the formal statement of a user's information need, usually in the form of keywords or a phrase. Indexing is the crucial preprocessing step where documents are analyzed and organized to create a searchable map. The Index creates a searchable map of terms and where they appear. This makes searching fast. Ranking computes a score of relevance for each document after a search. The system presents the results in a sorted list, with the most relevant items at the top. IR systems use various mathematical models to determine relevance.
+        
+2025-10-29 02:07:30,564 - INFO - RESPONSE: Information Retrieval: Searching Relevant Data from Large Collections
+ 
+The Science Behind Information Retrieval
+ 
+Information Retrieval is the science of searching for and obtaining relevant information.
+It involves large collections of unstructured data such as text documents, web pages, images, and videos.
+
+Common IR System Examples
+ 
+A common example of an IR system is a Web Search Engine like Google or Bing.
+Query Definition
+ 
+The formal statement of a user's information need is usually in the form of keywords or a phrase.
+Indexing Process
+ 
+Indexing is the crucial preprocessing step where documents are analyzed and organized to create a searchable map.
+This creates a searchable map of terms and their locations.
+
+Search Results Presentation
+ 
+The system presents the results in a sorted list, with the most relevant items at the top.
+Relevance Scoring
+ 
+IR systems use various mathematical models to determine relevance and compute scores for each document.
+2025-10-29 02:07:30,565 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:30,567 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Information Retrieval: Searching Relevant Data from Large Collections The Science Behind Information Retrieval Information Retrieval is the science of searching for and obtaining relevant information.
+                
+                Title:
+                
+2025-10-29 02:07:30,569 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:07:30,569 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:31,009 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Information Retrieval: Searching Relevant Data from Large Collections The Science Behind Information Retrieval Information Retrieval is the science of searching for and obtaining relevant information.
+                
+                Title:
+                
+2025-10-29 02:07:31,010 - INFO - RESPONSE: "Information Retrieval: Finding Relevant Data in Large Collections"
+2025-10-29 02:07:31,012 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:31,014 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Indexing is the crucial preprocessing step where documents are analyzed and organized to create a searchable map. This creates a searchable map of terms and their locations. Search Results Presentation
+                
+                Title:
+                
+2025-10-29 02:07:31,015 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:07:31,015 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:31,253 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Indexing is the crucial preprocessing step where documents are analyzed and organized to create a searchable map. This creates a searchable map of terms and their locations. Search Results Presentation
+                
+                Title:
+                
+2025-10-29 02:07:31,255 - INFO - RESPONSE: Searchable Document Mapping
+2025-10-29 02:07:31,256 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:31,263 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                The system presents the results in a sorted list, with the most relevant items at the top. Relevance Scoring IR systems use various mathematical models to determine relevance and compute scores for each document.
+                
+                Title:
+                
+2025-10-29 02:07:31,265 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:07:31,267 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:31,645 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                The system presents the results in a sorted list, with the most relevant items at the top. Relevance Scoring IR systems use various mathematical models to determine relevance and compute scores for each document.
+                
+                Title:
+                
+2025-10-29 02:07:31,648 - INFO - RESPONSE: Relevance Scoring in Information Retrieval Systems
+2025-10-29 02:07:31,649 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:07:31,933 - INFO - 127.0.0.1 - - [29/Oct/2025 02:07:31] "POST /upload HTTP/1.1" 200 -
+2025-10-29 02:09:02,711 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:09:02,714 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:09:04,224 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 02:09:10,382 - WARNING -  * Debugger is active!
+2025-10-29 02:09:10,385 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:09:42,373 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 02:09:42,377 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:09:42,379 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:43,853 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 02:09:43,854 - INFO - RESPONSE: Iconic Pokémon Origins
+ 
+Pokémon Evolution Process
+ 
+Key Characteristics of Pikachu
+ 
+Pikachu's Electric Abilities
+ 
+Charizard's Fire and Flying Traits
+ 
+Bulbasaur's Unique Features
+2025-10-29 02:09:43,855 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:43,859 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 02:09:43,860 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:09:43,861 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:49,887 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 02:09:49,889 - INFO - RESPONSE: Pikachu is the most famous Pokémon and the official mascot of the franchise.
+It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt.
+Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts.
+It is known for its friendly nature and its signature cry, "Pika Pika!"
+Charizard is a large, dragon-like Pokémon and the final evolution of Charmander.
+It has powerful wings that allow it to fly high in the sky.
+Charizard is known for its fiery breath, which is hot enough to melt boulders.
+A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health.
+It is a proud and often competitive Pokémon.
+Bulbasaur is one of the original starter Pokémon.
+It is a small, reptilian creature with blue-green skin.
+The most distinctive feature of Bulbasaur is the large, green bulb on its back.
+This bulb grows by absorbing sunlight and contains the seeds of its evolution.
+Bulbasaur is a calm and easygoing Pokémon that is often seen basking in the sun.
+2025-10-29 02:09:49,889 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:49,892 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon. Bulbasaur is one of the original starter Pokémon.
+        
+2025-10-29 02:09:49,894 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:09:49,894 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:52,331 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon. Bulbasaur is one of the original starter Pokémon.
+        
+2025-10-29 02:09:52,332 - INFO - RESPONSE: Pikachu: The Official Mascot
+Pikachu is a small, yellow, mouse-like creature with long ears and a lightning bolt-shaped tail.
+It stores electricity in its cheeks and releases powerful electric jolts to attack.
+
+Charizard: A Powerful Dragon-Like Pokémon
+Charizard has large wings for flying high in the sky.
+Its fiery breath can melt boulders due to intense flames on its tail.
+
+Bulbasaur: An Original Starter Pokémon
+2025-10-29 02:09:52,333 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:52,334 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Pikachu: The Official Mascot Pikachu is a small, yellow, mouse-like creature with long ears and a lightning bolt-shaped tail. It stores electricity in its cheeks and releases powerful electric jolts to attack.
+                
+                Title:
+                
+2025-10-29 02:09:52,335 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:09:52,335 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:52,631 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Pikachu: The Official Mascot Pikachu is a small, yellow, mouse-like creature with long ears and a lightning bolt-shaped tail. It stores electricity in its cheeks and releases powerful electric jolts to attack.
+                
+                Title:
+                
+2025-10-29 02:09:52,631 - INFO - RESPONSE: Pikachu: The Electrifying Pokémon
+2025-10-29 02:09:52,632 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:52,633 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Bulbasaur: An Original Starter Pokémon
+                
+                Title:
+                
+2025-10-29 02:09:52,634 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:09:52,635 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:53,106 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Bulbasaur: An Original Starter Pokémon
+                
+                Title:
+                
+2025-10-29 02:09:53,107 - INFO - RESPONSE: "Introducing Bulbasaur: The Iconic First-Ever Starter Pokémon"
+2025-10-29 02:09:53,107 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:09:53,184 - INFO - 127.0.0.1 - - [29/Oct/2025 02:09:53] "POST /upload HTTP/1.1" 200 -
+2025-10-29 02:13:02,113 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:13:02,115 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:13:03,852 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 02:13:10,224 - WARNING -  * Debugger is active!
+2025-10-29 02:13:10,228 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:13:44,406 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\threading.py', reloading
+2025-10-29 02:13:44,429 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:13:44,430 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:13:45,764 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 02:13:53,552 - WARNING -  * Debugger is active!
+2025-10-29 02:13:53,556 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:14:02,854 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:14:02,856 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 02:14:04,473 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 02:14:11,366 - WARNING -  * Debugger is active!
+2025-10-29 02:14:11,379 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 02:14:16,216 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:14:16,219 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:17,504 - INFO - RESPONSE: Computer Science Fundamentals
+Mathematics and Logic in CS
+Programming and Computing Systems
+Problem-Solving and Computational Thinking
+Career Paths for CS Graduates
+Software Engineering and Data Science
+Innovation and Digital Infrastructure
+2025-10-29 02:14:17,511 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:17,578 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:14:17,581 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:21,263 - INFO - RESPONSE: A Computer Science (CS) student is engaged in the study of computation, information, and automation.
+This discipline covers theoretical foundations, algorithmic design, and the practical implementation of computing systems.
+
+CS students typically develop a strong foundation in mathematics and logic.
+Their coursework often includes programming in multiple languages, database management, and operating systems.
+
+The core goal for many CS students is to become effective problem-solvers.
+They learn to break down large, complex problems into smaller components that can be solved using code and computational thinking.
+
+Career paths for graduates are diverse and high in demand.
+Ranging from Software Engineering and Data Science to Cybersecurity and Artificial Intelligence research.
+
+CS students are trained to be innovators who build the digital tools of the future.
+2025-10-29 02:14:21,265 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:21,273 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: A Computer Science (CS) student is engaged in the study of computation, information, and automation. This discipline covers theoretical foundations, algorithmic design, and the practical implementation of computing systems. CS students typically develop a strong foundation in mathematics and logic. Their coursework often includes programming in multiple languages, database management, and operating systems. The core goal for many CS students is to become effective problem-solvers. They learn to break down large, complex problems into smaller components that can be solved using code and computational thinking. Career paths for graduates are diverse and high in demand. Ranging from Software Engineering and Data Science to Cybersecurity and Artificial Intelligence research. CS students are trained to be innovators who build the digital tools of the future.
+        
+2025-10-29 02:14:21,275 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:14:21,277 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:24,484 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: A Computer Science (CS) student is engaged in the study of computation, information, and automation. This discipline covers theoretical foundations, algorithmic design, and the practical implementation of computing systems. CS students typically develop a strong foundation in mathematics and logic. Their coursework often includes programming in multiple languages, database management, and operating systems. The core goal for many CS students is to become effective problem-solvers. They learn to break down large, complex problems into smaller components that can be solved using code and computational thinking. Career paths for graduates are diverse and high in demand. Ranging from Software Engineering and Data Science to Cybersecurity and Artificial Intelligence research. CS students are trained to be innovators who build the digital tools of the future.
+        
+2025-10-29 02:14:24,484 - INFO - RESPONSE: A Computer Science student studies computation, information, and automation.
+
+The discipline covers theoretical foundations, algorithmic design, and practical computing system implementation.
+
+CS students develop a strong foundation in mathematics and logic, with coursework including:
+
+Programming in multiple languages
+Database management
+Operating systems
+
+Effective problem-solving is the core goal for many CS students, who learn to break down complex problems into smaller components using code and computational thinking.
+
+Career paths for graduates are diverse and high in demand, ranging from:
+
+Software Engineering
+Data Science
+Cybersecurity
+Artificial Intelligence research
+
+CS students are trained to be innovators building the digital tools of the future.
+2025-10-29 02:14:24,485 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:24,488 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                A Computer Science student studies computation, information, and automation. The discipline covers theoretical foundations, algorithmic design, and practical computing system implementation. CS students develop a strong foundation in mathematics and logic, with coursework including:
+                
+                Title:
+                
+2025-10-29 02:14:24,489 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:14:24,490 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:24,702 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                A Computer Science student studies computation, information, and automation. The discipline covers theoretical foundations, algorithmic design, and practical computing system implementation. CS students develop a strong foundation in mathematics and logic, with coursework including:
+                
+                Title:
+                
+2025-10-29 02:14:24,703 - INFO - RESPONSE: Computer Science Fundamentals
+2025-10-29 02:14:24,703 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:24,705 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Data Science Cybersecurity Artificial Intelligence research
+                
+                Title:
+                
+2025-10-29 02:14:24,707 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:14:24,707 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:25,157 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Data Science Cybersecurity Artificial Intelligence research
+                
+                Title:
+                
+2025-10-29 02:14:25,158 - INFO - RESPONSE: "Convergence of Data Science, Cybersecurity, and Artificial Intelligence Research"
+2025-10-29 02:14:25,158 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:25,161 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                CS students are trained to be innovators building the digital tools of the future.
+                
+                Title:
+                
+2025-10-29 02:14:25,162 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 02:14:25,162 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:25,480 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                CS students are trained to be innovators building the digital tools of the future.
+                
+                Title:
+                
+2025-10-29 02:14:25,480 - INFO - RESPONSE: Innovative Problem-Solving in Computer Science
+2025-10-29 02:14:25,481 - INFO - --------------------------------------------------------------------------------
+2025-10-29 02:14:25,627 - INFO - 127.0.0.1 - - [29/Oct/2025 02:14:25] "POST /upload HTTP/1.1" 200 -
+2025-10-29 02:14:30,349 - INFO - 127.0.0.1 - - [29/Oct/2025 02:14:30] "GET /download/presentation_269f75f8-a03a-4a35-b006-6e31fc218ced.pptx HTTP/1.1" 200 -
+2025-10-29 08:33:04,468 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-29 08:33:04,469 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 08:33:04,488 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 08:33:09,729 - WARNING -  * Debugger is active!
+2025-10-29 08:33:09,736 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 08:33:26,427 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-10-29 08:33:26,460 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-10-29 08:33:26,489 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-10-29 08:33:26,520 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\threading.py', reloading
+2025-10-29 08:33:27,658 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 08:33:33,587 - WARNING -  * Debugger is active!
+2025-10-29 08:33:33,590 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 08:34:13,637 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\logging\\__init__.py', reloading
+2025-10-29 08:34:13,787 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:34:13,788 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\encodings\\cp1252.py', reloading
+2025-10-29 08:34:13,788 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:34:13,793 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\app.py', reloading
+2025-10-29 08:34:13,798 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-10-29 08:34:13,802 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-10-29 08:34:13,808 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\http\\server.py', reloading
+2025-10-29 08:34:13,809 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\socketserver.py', reloading
+2025-10-29 08:34:14,978 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 08:34:20,355 - WARNING -  * Debugger is active!
+2025-10-29 08:34:20,359 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 08:34:42,093 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\__init__.py', reloading
+2025-10-29 08:34:42,170 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2025-10-29 08:34:42,217 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-10-29 08:34:42,231 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\globals.py', reloading
+2025-10-29 08:34:42,249 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2025-10-29 08:34:42,272 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-10-29 08:34:42,308 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-10-29 08:34:42,349 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-10-29 08:34:42,367 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2025-10-29 08:34:42,389 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-10-29 08:34:42,424 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-10-29 08:34:42,463 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\helpers.py', reloading
+2025-10-29 08:34:43,323 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 08:34:49,642 - WARNING -  * Debugger is active!
+2025-10-29 08:34:49,645 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 08:35:06,765 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 08:35:06,770 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:06,771 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:08,839 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 08:35:08,840 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000184320185F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:08,841 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:08,925 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 08:35:08,926 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:08,927 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:10,971 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 08:35:10,973 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001843207C9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:10,974 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:10,977 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon. Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon.
+        
+2025-10-29 08:35:10,978 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:10,979 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:13,019 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon. Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon.
+        
+2025-10-29 08:35:13,020 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001843207D910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:13,021 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:13,023 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Iconic Pokémon Descriptions Pikachu: Type: Electric Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts.
+                
+                Title:
+                
+2025-10-29 08:35:13,024 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:13,024 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:15,088 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Iconic Pokémon Descriptions Pikachu: Type: Electric Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts.
+                
+                Title:
+                
+2025-10-29 08:35:15,090 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001843207E6F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:15,090 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:15,092 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard: Type: Fire / Flying Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky.
+                
+                Title:
+                
+2025-10-29 08:35:15,093 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:15,093 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:17,132 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard: Type: Fire / Flying Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky.
+                
+                Title:
+                
+2025-10-29 08:35:17,133 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001843207F5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:17,136 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:17,144 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+                
+                Title:
+                
+2025-10-29 08:35:17,152 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:17,168 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:19,224 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+                
+                Title:
+                
+2025-10-29 08:35:19,225 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001843206E150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:19,226 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:19,228 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Bulbasaur: Type: Grass / Poison Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back.
+                
+                Title:
+                
+2025-10-29 08:35:19,229 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:19,229 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:21,299 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Bulbasaur: Type: Grass / Poison Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back.
+                
+                Title:
+                
+2025-10-29 08:35:21,300 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001843207E090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:21,301 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:21,304 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+                
+                Title:
+                
+2025-10-29 08:35:21,305 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:35:21,309 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:23,361 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+                
+                Title:
+                
+2025-10-29 08:35:23,361 - INFO - RESPONSE: Exception: HTTPConnectionPool(host='127.0.0.1', port=1234): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001843207CA70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-10-29 08:35:23,362 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:35:23,518 - INFO - 127.0.0.1 - - [29/Oct/2025 08:35:23] "POST /upload HTTP/1.1" 200 -
+2025-10-29 08:37:29,646 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 08:37:29,647 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:37:29,647 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:31,886 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 08:37:31,887 - INFO - RESPONSE: Electric Powerhouse
+Friendly Nature Abounds
+Dragon of Fire and Flight
+Evolutionary Wonders Unleashed
+Grassy Roots and Poisonous Bite
+Nature's Calm and Gentle Soul
+Pikachu's Iconic Cry Resounds
+2025-10-29 08:37:31,888 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:31,890 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 08:37:31,891 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:37:31,892 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:36,909 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 08:37:36,910 - INFO - RESPONSE: Pikachu stores electricity in the red pouches on its cheeks.
+It attacks by releasing powerful electric jolts.
+Pikachu is known for its friendly nature.
+Its signature cry is "Pika Pika!"
+Charizard has powerful wings that allow it to fly high.
+Charizard's fiery breath can melt boulders.
+A brilliant flame burns intensely on the tip of Charizard's tail.
+Charizard is a proud and often competitive Pokémon.
+Bulbasaur is one of the original starter Pokémon.
+The large, green bulb on Bulbasaur's back grows by absorbing sunlight.
+This bulb contains the seeds of its evolution.
+Bulbasaur is a calm and easygoing Pokémon.
+It absorbs sunlight to grow its bulb.
+Charizard is known for its fiery personality.
+2025-10-29 08:37:36,911 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:36,913 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Pikachu stores electricity in the red pouches on its cheeks. It attacks by releasing powerful electric jolts. Pikachu is known for its friendly nature. Its signature cry is "Pika Pika!" Charizard has powerful wings that allow it to fly high. Charizard's fiery breath can melt boulders. A brilliant flame burns intensely on the tip of Charizard's tail. Charizard is a proud and often competitive Pokémon. Bulbasaur is one of the original starter Pokémon. The large, green bulb on Bulbasaur's back grows by absorbing sunlight.
+        
+2025-10-29 08:37:36,914 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:37:36,915 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:40,156 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Pikachu stores electricity in the red pouches on its cheeks. It attacks by releasing powerful electric jolts. Pikachu is known for its friendly nature. Its signature cry is "Pika Pika!" Charizard has powerful wings that allow it to fly high. Charizard's fiery breath can melt boulders. A brilliant flame burns intensely on the tip of Charizard's tail. Charizard is a proud and often competitive Pokémon. Bulbasaur is one of the original starter Pokémon. The large, green bulb on Bulbasaur's back grows by absorbing sunlight.
+        
+2025-10-29 08:37:40,157 - INFO - RESPONSE: Here are the refined points for the presentation slide:
+
+Pikachu stores electricity in its cheeks.
+It releases powerful electric jolts to attack.
+Friendly and iconic, Pikachu's signature cry is "Pika Pika!"
+Charizard soars with powerful wings and fiery breath.
+Its tail burns intensely, a brilliant flame that never fades.
+Charizard is proud and competitive, a true Pokémon champion.
+Bulbasaur's green bulb grows by absorbing sunlight.
+It's one of the original starter Pokémon.
+2025-10-29 08:37:40,157 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:40,158 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Here are the refined points for the presentation slide: Pikachu stores electricity in its cheeks. It releases powerful electric jolts to attack.
+                
+                Title:
+                
+2025-10-29 08:37:40,159 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:37:40,159 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:40,485 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Here are the refined points for the presentation slide: Pikachu stores electricity in its cheeks. It releases powerful electric jolts to attack.
+                
+                Title:
+                
+2025-10-29 08:37:40,485 - INFO - RESPONSE: "Pikachu's Electric Attack Method"
+2025-10-29 08:37:40,486 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:37:40,528 - INFO - 127.0.0.1 - - [29/Oct/2025 08:37:40] "POST /upload HTTP/1.1" 200 -
+2025-10-29 08:38:38,475 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:38:38,475 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:40,390 - INFO - RESPONSE: Computer Science Fundamentals
+Mathematics and Logic Foundations
+Programming Languages and Tools
+Problem-Solving Strategies and Techniques
+Career Paths in Computer Science
+The Role of CS Education in Innovation
+Future-Proofing with Computer Science Skills
+2025-10-29 08:38:40,390 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:40,400 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:38:40,400 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:45,378 - INFO - RESPONSE: A CS student studies computation, information, and automation with great care,
+Theoretical foundations and algorithms are key to understand and share.
+
+Mathematics and logic form a strong base for complex problems to solve,
+Programming skills in multiple languages help data structures to evolve.
+
+Database management and operating systems are also part of the course,
+To learn how computers work and what they can endorse.
+
+Effective problem-solvers is the goal for many CS students each day,
+Breaking down large issues into smaller parts to find a better way.
+
+Code and computational thinking are used to solve complex problems with ease,
+Innovators build digital tools that bring the future to its knees.
+
+Career paths are diverse, from Software Engineering to Data Science too,
+Cybersecurity and AI research are high-demand fields for CS students to pursue.
+2025-10-29 08:38:45,379 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:45,380 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: A CS student studies computation, information, and automation with great care, Theoretical foundations and algorithms are key to understand and share. Mathematics and logic form a strong base for complex problems to solve, Programming skills in multiple languages help data structures to evolve. Database management and operating systems are also part of the course, To learn how computers work and what they can endorse. Effective problem-solvers is the goal for many CS students each day, Breaking down large issues into smaller parts to find a better way. Code and computational thinking are used to solve complex problems with ease, Innovators build digital tools that bring the future to its knees.
+        
+2025-10-29 08:38:45,385 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:38:45,388 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:49,146 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: A CS student studies computation, information, and automation with great care, Theoretical foundations and algorithms are key to understand and share. Mathematics and logic form a strong base for complex problems to solve, Programming skills in multiple languages help data structures to evolve. Database management and operating systems are also part of the course, To learn how computers work and what they can endorse. Effective problem-solvers is the goal for many CS students each day, Breaking down large issues into smaller parts to find a better way. Code and computational thinking are used to solve complex problems with ease, Innovators build digital tools that bring the future to its knees.
+        
+2025-10-29 08:38:49,146 - INFO - RESPONSE: Here's the refined text:
+
+A Computer Science student studies computation, information, and automation.
+Theoretical foundations and algorithms are crucial for understanding.
+
+Mathematics and logic form a strong base for solving complex problems.
+Programming skills in multiple languages aid data structure evolution.
+
+Database management and operating systems are part of the course.
+Learning how computers work is essential to their capabilities.
+
+Effective problem-solving is the goal for many CS students daily.
+Breaking down large issues into smaller parts leads to better solutions.
+
+Code and computational thinking solve complex problems with ease.
+Innovators build digital tools that shape the future.
+2025-10-29 08:38:49,147 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:49,148 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Here's the refined text: A Computer Science student studies computation, information, and automation. Theoretical foundations and algorithms are crucial for understanding.
+                
+                Title:
+                
+2025-10-29 08:38:49,149 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:38:49,149 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:49,649 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Here's the refined text: A Computer Science student studies computation, information, and automation. Theoretical foundations and algorithms are crucial for understanding.
+                
+                Title:
+                
+2025-10-29 08:38:49,649 - INFO - RESPONSE: "Foundations of Computer Science"
+
+or 
+
+"Theoretical Foundations in CS"
+2025-10-29 08:38:49,650 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:49,651 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Code and computational thinking solve complex problems with ease. Innovators build digital tools that shape the future.
+                
+                Title:
+                
+2025-10-29 08:38:49,653 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:38:49,653 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:50,003 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Code and computational thinking solve complex problems with ease. Innovators build digital tools that shape the future.
+                
+                Title:
+                
+2025-10-29 08:38:50,003 - INFO - RESPONSE: "Unlocking Solutions through Code and Computational Thinking"
+2025-10-29 08:38:50,003 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:38:50,045 - INFO - 127.0.0.1 - - [29/Oct/2025 08:38:50] "POST /upload HTTP/1.1" 200 -
+2025-10-29 08:42:38,591 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:42:38,592 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:41,031 - INFO - RESPONSE: Random Historical Facts
+A Brief Overview of Ancient Rome
+
+The Roman Empire's Rise to Power
+Rome's Engineering Achievements
+Roman Law and Governance
+The Legacy of Latin Language
+Honey's Enduring Properties
+Flamingos in Groups
+Human Stomach Acid Strength
+2025-10-29 08:42:41,033 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:41,061 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:42:41,062 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:50,885 - INFO - RESPONSE: The shortest war was between Britain and Zanzibar on August 27, 1896.
+It lasted only 38 minutes.
+
+A group of flamingos is called a 'flamboyance'.
+
+Human stomach acid can dissolve zinc with its strength.
+But it protects itself with a thick layer of mucus.
+
+Honey never spoils, as archaeologists have found.
+Pots of honey in ancient Egyptian tombs are over 3,000 years old and still edible.
+
+The antipodes is the opposite side of the Earth from where you stand.
+It's called that because it's literally the opposite side.
+
+The Roman Empire was one of history's largest empires.
+It dominated the Mediterranean world for centuries.
+
+Rome began as a small city-state in Italy, expanding through might and alliances.
+At its height, under Emperor Trajan, it stretched from Britain to Egypt and Mesopotamia.
+
+The Roman legacy lies in engineering, architecture, and law.
+Its aqueducts supplied clean water, public baths were massive, and structures like the Colosseum stood strong.
+
+Roman Law established concepts of citizenship and property rights.
+These principles form the basis of many Western nations' legal systems today.
+
+Latin became the root of all Romance languages (French, Spanish, Italian, Portuguese, and Romanian).
+It significantly influenced English vocabulary as well.
+
+The Pax Romana was a period of stability, trade, and peace for two centuries.
+This marked the end of the ancient world and the beginning of the Middle Ages in Europe.
+2025-10-29 08:42:50,889 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:50,892 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: The shortest war was between Britain and Zanzibar on August 27, 1896. It lasted only 38 minutes. A group of flamingos is called a 'flamboyance'. Human stomach acid can dissolve zinc with its strength. But it protects itself with a thick layer of mucus. Honey never spoils, as archaeologists have found. Pots of honey in ancient Egyptian tombs are over 3,000 years old and still edible. The antipodes is the opposite side of the Earth from where you stand. It's called that because it's literally the opposite side. The Roman Empire was one of history's largest empires.
+        
+2025-10-29 08:42:50,896 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:42:50,898 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:54,643 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: The shortest war was between Britain and Zanzibar on August 27, 1896. It lasted only 38 minutes. A group of flamingos is called a 'flamboyance'. Human stomach acid can dissolve zinc with its strength. But it protects itself with a thick layer of mucus. Honey never spoils, as archaeologists have found. Pots of honey in ancient Egyptian tombs are over 3,000 years old and still edible. The antipodes is the opposite side of the Earth from where you stand. It's called that because it's literally the opposite side. The Roman Empire was one of history's largest empires.
+        
+2025-10-29 08:42:54,644 - INFO - RESPONSE: Here's the refined text for a presentation slide:
+
+The shortest war lasted 38 minutes between Britain and Zanzibar on August 27, 1896.
+
+Flamingos are known by their collective term 'flamboyance'.
+
+Human stomach acid can dissolve zinc due to its strength but is protected by mucus.
+
+Honey remains edible even after 3,000 years, as proven by ancient Egyptian tombs.
+
+The antipodes refers to the opposite side of the Earth from your current location.
+
+The Roman Empire was one of history's largest and most influential empires.
+2025-10-29 08:42:54,646 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:54,648 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Here's the refined text for a presentation slide: The shortest war lasted 38 minutes between Britain and Zanzibar on August 27, 1896. Flamingos are known by their collective term 'flamboyance'.
+                
+                Title:
+                
+2025-10-29 08:42:54,649 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:42:54,654 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:55,409 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Here's the refined text for a presentation slide: The shortest war lasted 38 minutes between Britain and Zanzibar on August 27, 1896. Flamingos are known by their collective term 'flamboyance'.
+                
+                Title:
+                
+2025-10-29 08:42:55,411 - INFO - RESPONSE: "Shortest War & Flamboyant Birds"
+
+or 
+
+"Briefest Conflict & Avian Charm"
+2025-10-29 08:42:55,412 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:42:55,503 - INFO - 127.0.0.1 - - [29/Oct/2025 08:42:55] "POST /upload HTTP/1.1" 200 -
+2025-10-29 08:45:18,553 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:45:18,567 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:21,244 - INFO - RESPONSE: The Voyager Program
+The Grand Tour
+
+Mission Objectives and Initial Discoveries
+Exploration of Jupiter's Magnetosphere
+Discoveries at Saturn's Ring System
+Flyby of Saturn's Moon Titan
+Gravity Assist for Interstellar Space
+Jupiter's Volcanic Activity
+Saturn's Unique Ring Features
+2025-10-29 08:45:21,245 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:21,257 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:45:21,258 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:29,061 - INFO - RESPONSE: The Voyager Program consists of two probes launched by NASA in 1977.
+ 
+The primary mission was exploration of Jupiter, Saturn, their moons, and magnetospheres.
+ 
+Voyagers observed active volcanoes on Io and detailed data on Jupiter's Great Red Spot.
+ 
+At Saturn, they returned images of the ring system and confirmed Titan's atmosphere.
+
+Voyager 1 used a gravity assist to propel it out of the solar plane.
+ 
+It became the first probe to enter interstellar space.
+
+Voyager 2 continued its journey to Uranus and Neptune with new discoveries.
+ 
+Uranus had 10 new moons, including Cordelia and Ophelia, and a unique magnetic field.
+ 
+Neptune's Great Dark Spot was discovered, similar to Jupiter's storm system.
+ 
+Triton, Neptune's largest moon, revealed a cold, icy world with active geysers.
+
+The Voyager Interstellar Mission aims to explore the heliosphere's boundary.
+ 
+Voyager 1 officially entered interstellar space in 2012.
+ 
+It carries a golden record of human culture and music for potential extraterrestrial life.
+2025-10-29 08:45:29,064 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:29,068 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: The Voyager Program consists of two probes launched by NASA in 1977. The primary mission was exploration of Jupiter, Saturn, their moons, and magnetospheres. Voyagers observed active volcanoes on Io and detailed data on Jupiter's Great Red Spot. At Saturn, they returned images of the ring system and confirmed Titan's atmosphere. Voyager 1 used a gravity assist to propel it out of the solar plane. It became the first probe to enter interstellar space. Voyager 2 continued its journey to Uranus and Neptune with new discoveries. Uranus had 10 new moons, including Cordelia and Ophelia, and a unique magnetic field. Neptune's Great Dark Spot was discovered, similar to Jupiter's storm system. Triton, Neptune's largest moon, revealed a cold, icy world with active geysers.
+        
+2025-10-29 08:45:29,070 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:45:29,073 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:34,213 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: The Voyager Program consists of two probes launched by NASA in 1977. The primary mission was exploration of Jupiter, Saturn, their moons, and magnetospheres. Voyagers observed active volcanoes on Io and detailed data on Jupiter's Great Red Spot. At Saturn, they returned images of the ring system and confirmed Titan's atmosphere. Voyager 1 used a gravity assist to propel it out of the solar plane. It became the first probe to enter interstellar space. Voyager 2 continued its journey to Uranus and Neptune with new discoveries. Uranus had 10 new moons, including Cordelia and Ophelia, and a unique magnetic field. Neptune's Great Dark Spot was discovered, similar to Jupiter's storm system. Triton, Neptune's largest moon, revealed a cold, icy world with active geysers.
+        
+2025-10-29 08:45:34,214 - INFO - RESPONSE: Voyager Program Overview
+The Voyager Program consists of two NASA probes launched in 1977.
+
+Primary Mission Objectives
+Explore Jupiter and Saturn, their moons, magnetospheres, and ring systems.
+
+Key Discoveries
+- Active volcanoes on Io
+- Detailed data on Jupiter's Great Red Spot
+- Images of Saturn's ring system
+- Confirmation of Titan's atmosphere
+
+Voyager 1's Historic Journey
+Used gravity assist to exit solar plane, becoming the first probe in interstellar space.
+
+Voyager 2's Continued Exploration
+Journeyed to Uranus and Neptune with new discoveries including:
+- 10 new moons at Uranus
+- Unique magnetic field at Uranus
+- Discovery of Neptune's Great Dark Spot
+- Triton, a cold icy moon with active geysers
+2025-10-29 08:45:34,215 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:34,218 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Voyager Program Overview The Voyager Program consists of two NASA probes launched in 1977. Primary Mission Objectives
+                
+                Title:
+                
+2025-10-29 08:45:34,252 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:45:34,263 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:34,671 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Voyager Program Overview The Voyager Program consists of two NASA probes launched in 1977. Primary Mission Objectives
+                
+                Title:
+                
+2025-10-29 08:45:34,672 - INFO - RESPONSE: "Voyager Program: Exploring the Cosmos"
+2025-10-29 08:45:34,673 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:34,675 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Voyager 1's Historic Journey Used gravity assist to exit solar plane, becoming the first probe in interstellar space. Voyager 2's Continued Exploration
+                
+                Title:
+                
+2025-10-29 08:45:34,677 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:45:34,678 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:35,041 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Voyager 1's Historic Journey Used gravity assist to exit solar plane, becoming the first probe in interstellar space. Voyager 2's Continued Exploration
+                
+                Title:
+                
+2025-10-29 08:45:35,042 - INFO - RESPONSE: "Voyagers Enter Interstellar Space"
+2025-10-29 08:45:35,043 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:35,044 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Journeyed to Uranus and Neptune with new discoveries including: - 10 new moons at Uranus - Unique magnetic field at Uranus
+                
+                Title:
+                
+2025-10-29 08:45:35,046 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:45:35,046 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:35,632 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Journeyed to Uranus and Neptune with new discoveries including: - 10 new moons at Uranus - Unique magnetic field at Uranus
+                
+                Title:
+                
+2025-10-29 08:45:35,635 - INFO - RESPONSE: "Exploring the Outer Planets: New Discoveries at Uranus and Neptune"
+2025-10-29 08:45:35,641 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:35,645 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                - Discovery of Neptune's Great Dark Spot - Triton, a cold icy moon with active geysers
+                
+                Title:
+                
+2025-10-29 08:45:35,652 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:45:35,653 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:36,507 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                - Discovery of Neptune's Great Dark Spot - Triton, a cold icy moon with active geysers
+                
+                Title:
+                
+2025-10-29 08:45:36,508 - INFO - RESPONSE: "Triton Unveils Neptune's Hidden Gem"
+
+or 
+
+"Neptune's Icy Secret Revealed in Triton"
+2025-10-29 08:45:36,508 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:45:36,641 - INFO - 127.0.0.1 - - [29/Oct/2025 08:45:36] "POST /upload HTTP/1.1" 200 -
+2025-10-29 08:49:20,765 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:49:20,771 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:22,839 - INFO - RESPONSE: Voyager Program Overview
+Mission Objectives and Initial Discoveries
+Jupiter Exploration and Discovery
+Saturn Exploration and Discovery
+The Extended Journey to the Ice Giants
+Interplanetary Spacecraft Design and Technology
+Legacy of the Voyager Program
+2025-10-29 08:49:22,840 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:22,885 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:49:22,887 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:37,599 - INFO - RESPONSE: The Voyager Program consists of two robotic probes, Voyager 1 and Voyager 2, launched by NASA in 1977 to take advantage of a rare planetary alignment that occurs only once every 175 years.
+
+This alignment allowed the spacecraft to use gravity assists from Jupiter and Saturn to slingshot to the ice giants, Uranus and Neptune, dramatically reducing the travel time and fuel required for the ambitious mission, which became known as the Grand Tour.
+
+The primary mission for both spacecraft was the exploration of Jupiter and Saturn, their major moons, and the structure of their magnetospheres and rings.
+
+Upon reaching Jupiter in 1979, the Voyagers provided stunning, high-resolution images and discovered three new moons: Metis, Adrastea, and Thebe.
+
+Most notably, they observed active volcanoes on Io, making it the first known volcanically active body other than Earth.
+
+They also provided detailed data on Jupiter’s Great Red Spot and the complex dynamics of its atmosphere.
+
+At Saturn in 1980 and 1981, the probes returned incredible images of the ring system, revealing thousands of intricate ringlets and strange features like the "spokes" and "braided" rings.
+
+The flyby of Saturn’s moon Titan provided confirmation of a dense, nitrogen-rich atmosphere, inspiring future dedicated missions.
+
+Following the Saturn encounter, Voyager 1 used a final gravity assist to propel it out of the plane of the planets, setting it on a course to become the first probe to enter interstellar space.
+
+Voyager 2 was uniquely tasked with continuing its journey to the distant ice giants.
+
+It reached Uranus in 1986, discovering 10 new moons, including Cordelia and Ophelia, and a new set of rings.
+
+The spacecraft observed Uranus’s bizarre 98-degree axial tilt and its highly irregular magnetic field.
+
+Three years later, in 1989, it encountered Neptune, the last planetary target.
+
+Here, it discovered the Great Dark Spot, a storm system similar to Jupiter's, and six new moons.
+
+The flyby of Triton, Neptune’s largest moon, revealed a cold, icy world with active geysers, a major surprise that suggested geological activity far from the Sun.
+
+Voyager 1 officially entered interstellar space in 2012.
+2025-10-29 08:49:37,600 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:37,606 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: The Voyager Program consists of two robotic probes, Voyager 1 and Voyager 2, launched by NASA in 1977 to take advantage of a rare planetary alignment that occurs only once every 175 years. This alignment allowed the spacecraft to use gravity assists from Jupiter and Saturn to slingshot to the ice giants, Uranus and Neptune, dramatically reducing the travel time and fuel required for the ambitious mission, which became known as the Grand Tour. The primary mission for both spacecraft was the exploration of Jupiter and Saturn, their major moons, and the structure of their magnetospheres and rings. Upon reaching Jupiter in 1979, the Voyagers provided stunning, high-resolution images and discovered three new moons: Metis, Adrastea, and Thebe. Most notably, they observed active volcanoes on Io, making it the first known volcanically active body other than Earth. They also provided detailed data on Jupiter’s Great Red Spot and the complex dynamics of its atmosphere. At Saturn in 1980 and 1981, the probes returned incredible images of the ring system, revealing thousands of intricate ringlets and strange features like the "spokes" and "braided" rings. The flyby of Saturn’s moon Titan provided confirmation of a dense, nitrogen-rich atmosphere, inspiring future dedicated missions. Following the Saturn encounter, Voyager 1 used a final gravity assist to propel it out of the plane of the planets, setting it on a course to become the first probe to enter interstellar space. Voyager 2 was uniquely tasked with continuing its journey to the distant ice giants.
+        
+2025-10-29 08:49:37,606 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:49:37,608 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:43,384 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: The Voyager Program consists of two robotic probes, Voyager 1 and Voyager 2, launched by NASA in 1977 to take advantage of a rare planetary alignment that occurs only once every 175 years. This alignment allowed the spacecraft to use gravity assists from Jupiter and Saturn to slingshot to the ice giants, Uranus and Neptune, dramatically reducing the travel time and fuel required for the ambitious mission, which became known as the Grand Tour. The primary mission for both spacecraft was the exploration of Jupiter and Saturn, their major moons, and the structure of their magnetospheres and rings. Upon reaching Jupiter in 1979, the Voyagers provided stunning, high-resolution images and discovered three new moons: Metis, Adrastea, and Thebe. Most notably, they observed active volcanoes on Io, making it the first known volcanically active body other than Earth. They also provided detailed data on Jupiter’s Great Red Spot and the complex dynamics of its atmosphere. At Saturn in 1980 and 1981, the probes returned incredible images of the ring system, revealing thousands of intricate ringlets and strange features like the "spokes" and "braided" rings. The flyby of Saturn’s moon Titan provided confirmation of a dense, nitrogen-rich atmosphere, inspiring future dedicated missions. Following the Saturn encounter, Voyager 1 used a final gravity assist to propel it out of the plane of the planets, setting it on a course to become the first probe to enter interstellar space. Voyager 2 was uniquely tasked with continuing its journey to the distant ice giants.
+        
+2025-10-29 08:49:43,385 - INFO - RESPONSE: Voyager Program: A Historic Space Mission
+
+Launched by NASA in 1977, the Voyager program consists of two robotic probes.
+
+The rare planetary alignment allowed for gravity assists from Jupiter and Saturn, enabling a significant reduction in travel time and fuel.
+
+Primary mission objectives include exploring Jupiter and Saturn, their major moons, magnetospheres, and rings.
+
+Key discoveries at Jupiter included:
+
+High-resolution images
+New moons: Metis, Adrastea, and Thebe
+Active volcanoes on Io
+Detailed data on the Great Red Spot and atmosphere dynamics
+
+At Saturn, Voyager 1 captured stunning images of the ring system, revealing intricate details. Voyager 2 confirmed a dense, nitrogen-rich atmosphere on Titan.
+
+Voyager 1 used its final gravity assist to enter interstellar space, becoming the first probe to do so. Voyager 2 continued its journey to the distant ice giants.
+2025-10-29 08:49:43,386 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:43,388 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Voyager Program: A Historic Space Mission Launched by NASA in 1977, the Voyager program consists of two robotic probes. The rare planetary alignment allowed for gravity assists from Jupiter and Saturn, enabling a significant reduction in travel time and fuel.
+                
+                Title:
+                
+2025-10-29 08:49:43,388 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:49:43,388 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:43,868 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Voyager Program: A Historic Space Mission Launched by NASA in 1977, the Voyager program consists of two robotic probes. The rare planetary alignment allowed for gravity assists from Jupiter and Saturn, enabling a significant reduction in travel time and fuel.
+                
+                Title:
+                
+2025-10-29 08:49:43,869 - INFO - RESPONSE: "Voyager Program: Pioneering Interstellar Exploration"
+2025-10-29 08:49:43,869 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:43,871 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                At Saturn, Voyager 1 captured stunning images of the ring system, revealing intricate details. Voyager 2 confirmed a dense, nitrogen-rich atmosphere on Titan. Voyager 1 used its final gravity assist to enter interstellar space, becoming the first probe to do so. Voyager 2 continued its journey to the distant ice giants.
+                
+                Title:
+                
+2025-10-29 08:49:43,872 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 08:49:43,872 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:44,290 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                At Saturn, Voyager 1 captured stunning images of the ring system, revealing intricate details. Voyager 2 confirmed a dense, nitrogen-rich atmosphere on Titan. Voyager 1 used its final gravity assist to enter interstellar space, becoming the first probe to do so. Voyager 2 continued its journey to the distant ice giants.
+                
+                Title:
+                
+2025-10-29 08:49:44,291 - INFO - RESPONSE: "Voyager's Legacy in Our Solar System"
+2025-10-29 08:49:44,292 - INFO - --------------------------------------------------------------------------------
+2025-10-29 08:49:44,477 - INFO - 127.0.0.1 - - [29/Oct/2025 08:49:44] "POST /upload HTTP/1.1" 200 -
+2025-10-29 09:42:59,157 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-29 09:42:59,157 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 09:42:59,166 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 09:43:05,353 - WARNING -  * Debugger is active!
+2025-10-29 09:43:05,357 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 09:43:40,478 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\logging\\__init__.py', reloading
+2025-10-29 09:43:40,501 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:43:40,502 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\encodings\\cp1252.py', reloading
+2025-10-29 09:43:40,504 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:43:40,506 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\logging_backend.py', reloading
+2025-10-29 09:43:40,508 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\flask\\app.py', reloading
+2025-10-29 09:43:40,511 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-10-29 09:43:40,513 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-10-29 09:43:40,514 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\http\\server.py', reloading
+2025-10-29 09:43:40,515 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\socketserver.py', reloading
+2025-10-29 09:43:41,811 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 09:43:47,803 - WARNING -  * Debugger is active!
+2025-10-29 09:43:47,806 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 09:44:28,421 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 09:44:28,423 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:44:28,424 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:30,005 - INFO - PROMPT: 
+        Identify 7 key headings/topics from the following text. 
+        These should be concise titles that represent major themes.
+        Return each heading on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.
+        
+2025-10-29 09:44:30,007 - INFO - RESPONSE: Electric Types
+Fire / Flying Types
+Grass / Poison Types
+Iconic Mascots
+Pokémon Evolution
+Reptilian Creatures
+Strong and Proud Pokémon
+2025-10-29 09:44:30,007 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:30,010 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 09:44:30,011 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:44:30,011 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:37,253 - INFO - PROMPT: 
+        Extract the 15 most important sentences from the following text. 
+        Return each sentence on a new line with no numbering or additional text.
+
+        Text: Iconic Pokémon Descriptions
+
+Pikachu:
+Type: Electric
+Description: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!"
+
+Charizard:
+Type: Fire / Flying
+Description: Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. It is a proud and often competitive Pokémon.
+
+Bulbasaur:
+Type: Grass / Poison
+Description: Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin. The most distinctive feature of Bulbasaur is the large, green bulb on its back. This bulb grows by absorbing sunlight and contains the seeds of its evolution. It is a calm and easygoing Pokémon that is often seen basking in the sun.  # Limit text length to prevent token issues
+        
+2025-10-29 09:44:37,254 - INFO - RESPONSE: Pikachu is the most famous Pokémon and the official mascot of the franchise.
+It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt.
+Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts.
+It is known for its friendly nature and its signature cry, "Pika Pika!"
+Charizard is a large, dragon-like Pokémon and the final evolution of Charmander.
+It has powerful wings that allow it to fly high in the sky.
+Charizard is known for its fiery breath, which is hot enough to melt boulders.
+A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health.
+Bulbasaur is one of the original starter Pokémon.
+It is a small, reptilian creature with blue-green skin.
+The most distinctive feature of Bulbasaur is the large, green bulb on its back.
+This bulb grows by absorbing sunlight and contains the seeds of its evolution.
+Bulbasaur is a calm and easygoing Pokémon that is often seen basking in the sun.
+2025-10-29 09:44:37,255 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:37,255 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin.
+        
+2025-10-29 09:44:37,257 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:44:37,258 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:39,804 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Pikachu is the most famous Pokémon and the official mascot of the franchise. It is a small, yellow, mouse-like creature with long, pointed ears and a tail shaped like a lightning bolt. Pikachu stores electricity in the red pouches on its cheeks and attacks by releasing powerful electric jolts. It is known for its friendly nature and its signature cry, "Pika Pika!" Charizard is a large, dragon-like Pokémon and the final evolution of Charmander. It has powerful wings that allow it to fly high in the sky. Charizard is known for its fiery breath, which is hot enough to melt boulders. A brilliant flame burns intensely on the tip of its tail, a sign of its strength and health. Bulbasaur is one of the original starter Pokémon. It is a small, reptilian creature with blue-green skin.
+        
+2025-10-29 09:44:39,805 - INFO - RESPONSE: Pikachu: The Iconic Mascot
+Pikachu is a small, yellow, mouse-like creature that stores electricity in its cheeks.
+
+Charizard: The Majestic Dragon
+Charizard is a large, dragon-like Pokémon with powerful wings and fiery breath.
+
+Bulbasaur: The Original Starter
+Bulbasaur is a small, reptilian creature with blue-green skin.
+2025-10-29 09:44:39,805 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:39,807 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Pikachu: The Iconic Mascot Pikachu is a small, yellow, mouse-like creature that stores electricity in its cheeks. Charizard: The Majestic Dragon
+                
+                Title:
+                
+2025-10-29 09:44:39,808 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:44:39,808 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:40,196 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Pikachu: The Iconic Mascot Pikachu is a small, yellow, mouse-like creature that stores electricity in its cheeks. Charizard: The Majestic Dragon
+                
+                Title:
+                
+2025-10-29 09:44:40,197 - INFO - RESPONSE: "Pikachu vs Charizard: Legendary Duel"
+2025-10-29 09:44:40,197 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:44:40,244 - INFO - 127.0.0.1 - - [29/Oct/2025 09:44:40] "POST /upload HTTP/1.1" 200 -
+2025-10-29 09:45:55,596 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\nltk\\__init__.py', reloading
+2025-10-29 09:45:55,631 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\nltk\\collocations.py', reloading
+2025-10-29 09:45:55,643 - INFO -  * Detected change in 'D:\\New-Programs\\python\\Lib\\site-packages\\nltk\\featstruct.py', reloading
+2025-10-29 09:45:56,484 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 09:46:02,694 - WARNING -  * Debugger is active!
+2025-10-29 09:46:02,697 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 09:46:21,018 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:46:21,020 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:22,696 - INFO - RESPONSE: Information Retrieval
+Querying and Indexing
+Ranking and Relevance
+IR System Examples
+Indexing Preprocessing
+Mathematical Models in IR
+IR Applications and Use Cases
+2025-10-29 09:46:22,698 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:22,712 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:46:22,712 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:29,053 - INFO - RESPONSE: Information Retrieval (IR) is the science of searching for and obtaining relevant information from large collections of resources.
+These collections often consist of unstructured data, such as text documents, web pages, images, and videos.
+A common example of an IR system is a Web Search Engine (like Google or Bing).
+Query: The formal statement of a user's information need, usually in the form of keywords or a phrase (e.g., "latest news on AI").
+Indexing: The crucial preprocessing step where documents are analyzed and organized to create a searchable map (Inverted Index) of terms and where they appear.
+This makes searching fast.
+Ranking: After a search, the system computes a score of relevance for each document and presents the results in a sorted list, with the most relevant items at the top.
+IR systems use various mathematical models, such as the Boolean Model (exact match) or the Vector Space Model (similarity based on term weights like TF-IDF), to determine this relevance.
+2025-10-29 09:46:29,054 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:29,057 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Information Retrieval (IR) is the science of searching for and obtaining relevant information from large collections of resources. These collections often consist of unstructured data, such as text documents, web pages, images, and videos. A common example of an IR system is a Web Search Engine (like Google or Bing). Query: The formal statement of a user's information need, usually in the form of keywords or a phrase (e.g., "latest news on AI"). Indexing: The crucial preprocessing step where documents are analyzed and organized to create a searchable map (Inverted Index) of terms and where they appear. This makes searching fast. Ranking: After a search, the system computes a score of relevance for each document and presents the results in a sorted list, with the most relevant items at the top. IR systems use various mathematical models, such as the Boolean Model (exact match) or the Vector Space Model (similarity based on term weights like TF-IDF), to determine this relevance.
+        
+2025-10-29 09:46:29,057 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:46:29,058 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:33,592 - INFO - PROMPT: 
+        Improve the following text for a presentation slide. 
+        Make it more concise, clear, and impactful. Remove redundant information and fix any grammatical issues.
+        Return each refined point on a new line with no numbering or additional text.
+
+        Original Text: Information Retrieval (IR) is the science of searching for and obtaining relevant information from large collections of resources. These collections often consist of unstructured data, such as text documents, web pages, images, and videos. A common example of an IR system is a Web Search Engine (like Google or Bing). Query: The formal statement of a user's information need, usually in the form of keywords or a phrase (e.g., "latest news on AI"). Indexing: The crucial preprocessing step where documents are analyzed and organized to create a searchable map (Inverted Index) of terms and where they appear. This makes searching fast. Ranking: After a search, the system computes a score of relevance for each document and presents the results in a sorted list, with the most relevant items at the top. IR systems use various mathematical models, such as the Boolean Model (exact match) or the Vector Space Model (similarity based on term weights like TF-IDF), to determine this relevance.
+        
+2025-10-29 09:46:33,595 - INFO - RESPONSE: Information Retrieval (IR) is the science of finding relevant information in large collections.
+
+These collections often contain unstructured data, including text documents and web pages.
+
+A common IR system example is a Web Search Engine, such as Google or Bing.
+
+User queries are formal statements of their information need, typically using keywords or phrases like "latest news on AI".
+
+Indexing creates a searchable map by analyzing and organizing documents into an inverted index of terms and their locations.
+
+This step enables fast searching.
+
+Ranking computes relevance scores for each document after a search and presents results in a sorted list with the most relevant items at the top.
+
+IR systems use mathematical models like the Boolean Model or Vector Space Model to determine relevance.
+2025-10-29 09:46:33,595 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:33,597 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Information Retrieval (IR) is the science of finding relevant information in large collections. These collections often contain unstructured data, including text documents and web pages. A common IR system example is a Web Search Engine, such as Google or Bing.
+                
+                Title:
+                
+2025-10-29 09:46:33,599 - INFO - RESPONSE: REQUEST_SENT
+2025-10-29 09:46:33,603 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:34,067 - INFO - PROMPT: 
+                Generate a concise slide title for the following content:
+                Information Retrieval (IR) is the science of finding relevant information in large collections. These collections often contain unstructured data, including text documents and web pages. A common IR system example is a Web Search Engine, such as Google or Bing.
+                
+                Title:
+                
+2025-10-29 09:46:34,067 - INFO - RESPONSE: "Information Retrieval: Finding Relevant Data in Large Collections"
+2025-10-29 09:46:34,068 - INFO - --------------------------------------------------------------------------------
+2025-10-29 09:46:34,140 - INFO - 127.0.0.1 - - [29/Oct/2025 09:46:34] "POST /upload HTTP/1.1" 200 -
+2025-10-29 09:47:15,438 - INFO - 127.0.0.1 - - [29/Oct/2025 09:47:15] "GET /download/presentation_d268794d-5c05-4bc8-8416-7e2efdd3c96e.pptx HTTP/1.1" 200 -
+2025-10-29 19:01:23,994 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\app.py', reloading
+2025-10-29 19:01:24,973 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 19:01:28,926 - WARNING -  * Debugger is active!
+2025-10-29 19:01:28,928 - INFO -  * Debugger PIN: 929-361-286
+2025-10-29 19:04:41,248 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\content_processor.py', reloading
+2025-10-29 19:04:41,254 - INFO -  * Detected change in 'G:\\Projects\\IR_AgenticAi_PPTmaker\\content_processor.py', reloading
+2025-10-29 19:04:42,753 - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-29 19:04:48,409 - WARNING -  * Debugger is active!
+2025-10-29 19:04:48,412 - INFO -  * Debugger PIN: 929-361-286

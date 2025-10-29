@@ -1,0 +1,8 @@
+streamlit
+flask
+flask-cors
+python-pptx
+pdfplumber
+nltk
+spacy
+requests
